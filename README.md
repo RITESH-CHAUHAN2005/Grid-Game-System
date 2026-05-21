@@ -2,6 +2,8 @@
 
 Shared Grid is a real-time collaborative grid game built with React and Firebase. Users can register, log in, claim tiles on a 24×24 board, release their tiles, and watch updates appear instantly across all connected clients.
 
+🔗 **Live Demo:** https://violet-oryx-965017.hostingersite.com/
+
 ## What this project does
 
 - Shows a large interactive grid made of 576 tiles
@@ -504,7 +506,6 @@ For questions or issues, please reach out or open an issue on GitHub.
 
 ---
 
-**Built with ❤️**  
 _Real-time collaboration made simple and beautiful_
 
 # Grid-Game
